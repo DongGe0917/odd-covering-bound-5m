@@ -1,3 +1,5 @@
+> **Merged / 已合并** — This repository's contents have been merged into the cumulative repository [odd-covering-bound-10m](https://github.com/DongGe0917/odd-covering-bound-10m) (bound extended to lcm > 10,000,000, all 23 candidates ≤ 10,000 kernel-certified in Lean). This repo is kept as the phase-1 snapshot. 本仓库内容已合并入累计仓库 odd-covering-bound-10m，本仓保留为第一期快照。
+
 # Odd covering systems: an exact-rational exclusion of all lcm candidates ≤ 5,000,000, with a Lean-checked case study
 
 *English first, 中文在后 (Chinese version below).*
