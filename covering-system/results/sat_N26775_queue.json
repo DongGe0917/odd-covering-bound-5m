@@ -1,0 +1,46 @@
+{
+ "N": 26775,
+ "timeout_s": 600,
+ "symbreak": true,
+ "z3_version": "5.4.1",
+ "started": "2026-11-27T04:21:45+0000",
+ "pool_size": 35,
+ "n_vars": 58031,
+ "verdict": "UNKNOWN",
+ "seconds_total": 624.851,
+ "cases": [
+  {
+   "case": "A: class 0 mod 3 used",
+   "verdict": "unknown",
+   "seconds": 600.144,
+   "stats": {
+    "solve-eqs-steps": "71",
+    "solve-eqs-elim-vars": "38",
+    "conflicts": "448047",
+    "decisions": "845748",
+    "propagations": "6357788",
+    "binary propagations": "1492443",
+    "restarts": "846",
+    "added eqs": "1875156538",
+    "mk clause": "466190",
+    "mk clause binary": "58023",
+    "del clause": "440377",
+    "minimized lits": "4169664",
+    "num checks": "1",
+    "mk bool var": "58162",
+    "arith-make-feasible": "1",
+    "arith-max-columns": "4",
+    "pb resolves": "46399",
+    "pb conflicts": "46526",
+    "pb propagations": "2059911744",
+    "pb predicates": "68",
+    "max memory": "218.02",
+    "memory": "126.88",
+    "num allocs": "319995422966.0",
+    "rlimit count": "25707342188.0",
+    "time": "600.142"
+   },
+   "reason": "timeout"
+  }
+ ]
+}

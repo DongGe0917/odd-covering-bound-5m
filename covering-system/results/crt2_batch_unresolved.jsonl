@@ -1,0 +1,27 @@
+{"N": 10395, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11], "best_margin": "1097/4320", "best_sum": "3223/4320", "families_checked": 126, "search_completed": true, "elapsed_s": 0.06}
+{"N": 12285, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 13], "best_margin": "1447/5184", "best_sum": "3737/5184", "families_checked": 126, "search_completed": true, "elapsed_s": 0.038}
+{"N": 17325, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11], "best_margin": "17/72", "best_sum": "55/72", "families_checked": 153, "search_completed": true, "elapsed_s": 0.081}
+{"N": 20475, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 13], "best_margin": "113/432", "best_sum": "319/432", "families_checked": 153, "search_completed": true, "elapsed_s": 0.049}
+{"N": 24255, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11], "best_margin": "727/2520", "best_sum": "1793/2520", "families_checked": 153, "search_completed": true, "elapsed_s": 0.075}
+{"N": 26775, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 17], "best_margin": "169/576", "best_sum": "407/576", "families_checked": 153, "search_completed": true, "elapsed_s": 0.077}
+{"N": 31185, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11], "best_margin": "1453/6480", "best_sum": "5027/6480", "families_checked": 163, "search_completed": true, "elapsed_s": 0.087}
+{"N": 33075, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7], "best_margin": "95/378", "best_sum": "283/378", "families_checked": 100, "search_completed": true, "elapsed_s": 0.032}
+{"N": 36855, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 13], "best_margin": "1943/7776", "best_sum": "5833/7776", "families_checked": 163, "search_completed": true, "elapsed_s": 0.097}
+{"N": 45045, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11, 13], "best_margin": "1759/8640", "best_sum": "6881/8640", "families_checked": 354, "search_completed": true, "elapsed_s": 0.262}
+{"N": 48195, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 17], "best_margin": "2923/10368", "best_sum": "7445/10368", "families_checked": 163, "search_completed": true, "elapsed_s": 0.062}
+{"N": 51975, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11], "best_margin": "1549/10800", "best_sum": "9251/10800", "families_checked": 217, "search_completed": true, "elapsed_s": 0.163}
+{"N": 58905, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11, 17], "best_margin": "2747/11520", "best_sum": "8773/11520", "families_checked": 354, "search_completed": true, "elapsed_s": 0.239}
+{"N": 61425, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 13], "best_margin": "2207/12960", "best_sum": "10753/12960", "families_checked": 217, "search_completed": true, "elapsed_s": 0.155}
+{"N": 65835, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11, 19], "best_margin": "3241/12960", "best_sum": "9719/12960", "families_checked": 354, "search_completed": true, "elapsed_s": 0.224}
+{"N": 69615, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 13, 17], "best_margin": "3661/13824", "best_sum": "10163/13824", "families_checked": 354, "search_completed": true, "elapsed_s": 0.254}
+{"N": 72765, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11], "best_margin": "2987/15120", "best_sum": "12133/15120", "families_checked": 217, "search_completed": true, "elapsed_s": 0.153}
+{"N": 77805, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 13, 19], "best_margin": "4295/15552", "best_sum": "11257/15552", "families_checked": 354, "search_completed": true, "elapsed_s": 0.265}
+{"N": 79695, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11, 23], "best_margin": "4229/15840", "best_sum": "11611/15840", "families_checked": 354, "search_completed": true, "elapsed_s": 0.227}
+{"N": 80325, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 17], "best_margin": "3523/17280", "best_sum": "13757/17280", "families_checked": 217, "search_completed": true, "elapsed_s": 0.16}
+{"N": 85995, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 13], "best_margin": "4057/18144", "best_sum": "14087/18144", "families_checked": 217, "search_completed": true, "elapsed_s": 0.157}
+{"N": 86625, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11], "best_margin": "773/3600", "best_sum": "2827/3600", "families_checked": 217, "search_completed": true, "elapsed_s": 0.153}
+{"N": 89775, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 19], "best_margin": "4181/19440", "best_sum": "15259/19440", "families_checked": 217, "search_completed": true, "elapsed_s": 0.129}
+{"N": 93555, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 11], "best_margin": "8333/38880", "best_sum": "30547/38880", "families_checked": 200, "search_completed": true, "elapsed_s": 0.118}
+{"N": 94185, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7, 13, 23], "best_margin": "5563/19008", "best_sum": "13445/19008", "families_checked": 354, "search_completed": true, "elapsed_s": 0.274}
+{"N": 96525, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 11, 13], "best_margin": "5731/21600", "best_sum": "15869/21600", "families_checked": 217, "search_completed": true, "elapsed_s": 0.173}
+{"N": 99225, "verdict": "EXCLUDED_BY_CRT2", "best_T": [3, 5, 7], "best_margin": "505/2268", "best_sum": "1763/2268", "families_checked": 129, "search_completed": true, "elapsed_s": 0.052}

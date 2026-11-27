@@ -1,0 +1,16 @@
+{
+ "stats": {
+  "L1_checked": 210,
+  "L1_match": 210,
+  "L2_checked": 9992,
+  "L2_match": 9992,
+  "L3_checked": 9,
+  "L3_match": 9
+ },
+ "candidates": 10175,
+ "verified_excluded_N": 10175,
+ "uncovered": [],
+ "stray": [],
+ "problems": [],
+ "seconds": 38.4
+}

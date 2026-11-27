@@ -1,0 +1,142 @@
+{"N": 30555, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.007, "best_T": [3, 5, 7, 97], "best_margin": "467/3395", "exhaustive_completed": true, "exhaustive_nodes": 1122}
+{"N": 31185, "verdict": "PASS", "seconds": 0.025, "best_T": [3, 5, 7, 11], "best_margin": "-181/3465", "exhaustive_completed": true, "exhaustive_nodes": 3898}
+{"N": 31395, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.068, "best_T": [3, 5, 7, 13, 23], "best_margin": "652/4485", "exhaustive_completed": true, "exhaustive_nodes": 3725}
+{"N": 31815, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.006, "best_T": [3, 5, 7, 101], "best_margin": "293/2121", "exhaustive_completed": true, "exhaustive_nodes": 1122}
+{"N": 32175, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 11, 13], "best_margin": "159/3575", "exhaustive_completed": true, "exhaustive_nodes": 3288}
+{"N": 32445, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.005, "best_T": [3, 5, 7, 103], "best_margin": "499/3605", "exhaustive_completed": true, "exhaustive_nodes": 1122}
+{"N": 33075, "verdict": "PASS", "seconds": 0.009, "best_T": [3, 5, 7], "best_margin": "-8/2205", "exhaustive_completed": true, "exhaustive_nodes": 2148}
+{"N": 33345, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.059, "best_T": [3, 5, 13, 19], "best_margin": "1267/11115", "exhaustive_completed": true, "exhaustive_nodes": 2355}
+{"N": 33495, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.025, "best_T": [3, 5, 7, 11, 29], "best_margin": "424/3045", "exhaustive_completed": true, "exhaustive_nodes": 3713}
+{"N": 33915, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.074, "best_T": [3, 5, 7, 17, 19], "best_margin": "5332/33915", "exhaustive_completed": true, "exhaustive_nodes": 3735}
+{"N": 34125, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.019, "best_T": [3, 5, 7, 13], "best_margin": "4337/34125", "exhaustive_completed": true, "exhaustive_nodes": 2333}
+{"N": 34155, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.019, "best_T": [3, 5, 11, 23], "best_margin": "409/3795", "exhaustive_completed": true, "exhaustive_nodes": 2351}
+{"N": 34965, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.065, "best_T": [3, 5, 7, 37], "best_margin": "143/2331", "exhaustive_completed": true, "exhaustive_nodes": 2283}
+{"N": 35805, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.021, "best_T": [3, 5, 7, 11, 31], "best_margin": "5098/35805", "exhaustive_completed": true, "exhaustive_nodes": 3713}
+{"N": 36225, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.019, "best_T": [3, 5, 7, 23], "best_margin": "11/525", "exhaustive_completed": true, "exhaustive_nodes": 3238}
+{"N": 36855, "verdict": "PASS", "seconds": 0.023, "best_T": [3, 5, 7, 13], "best_margin": "-383/12285", "exhaustive_completed": true, "exhaustive_nodes": 3896}
+{"N": 37125, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.011, "best_T": [3, 5, 11], "best_margin": "76/825", "exhaustive_completed": true, "exhaustive_nodes": 1561}
+{"N": 37485, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.02, "best_T": [3, 5, 7, 17], "best_margin": "379/12495", "exhaustive_completed": true, "exhaustive_nodes": 3241}
+{"N": 38115, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.06, "best_T": [3, 5, 7, 11], "best_margin": "67/12705", "exhaustive_completed": true, "exhaustive_nodes": 3144}
+{"N": 38745, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 41], "best_margin": "281/4305", "exhaustive_completed": true, "exhaustive_nodes": 2277}
+{"N": 39375, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7], "best_margin": "2776/39375", "exhaustive_completed": true, "exhaustive_nodes": 1269}
+{"N": 39585, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.069, "best_T": [3, 5, 7, 13, 29], "best_margin": "1250/7917", "exhaustive_completed": true, "exhaustive_nodes": 3715}
+{"N": 40425, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 7, 11], "best_margin": "3419/40425", "exhaustive_completed": true, "exhaustive_nodes": 3268}
+{"N": 40635, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7, 43], "best_margin": "907/13545", "exhaustive_completed": true, "exhaustive_nodes": 2277}
+{"N": 41055, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 17, 23], "best_margin": "6968/41055", "exhaustive_completed": true, "exhaustive_nodes": 3698}
+{"N": 41895, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.068, "best_T": [3, 5, 7, 19], "best_margin": "29/735", "exhaustive_completed": true, "exhaustive_nodes": 3241}
+{"N": 42075, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 11, 17], "best_margin": "989/14025", "exhaustive_completed": true, "exhaustive_nodes": 3265}
+{"N": 42315, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 13, 31], "best_margin": "524/3255", "exhaustive_completed": true, "exhaustive_nodes": 3713}
+{"N": 42525, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.008, "best_T": [3, 5, 7], "best_margin": "64/6075", "exhaustive_completed": true, "exhaustive_nodes": 1955}
+{"N": 42735, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.064, "best_T": [3, 5, 7, 11, 37], "best_margin": "1280/8547", "exhaustive_completed": true, "exhaustive_nodes": 3624}
+{"N": 43065, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.01, "best_T": [3, 5, 11, 29], "best_margin": "577/4785", "exhaustive_completed": true, "exhaustive_nodes": 2327}
+{"N": 44415, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7, 47], "best_margin": "23/329", "exhaustive_completed": true, "exhaustive_nodes": 2245}
+{"N": 44625, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7, 17], "best_margin": "967/6375", "exhaustive_completed": true, "exhaustive_nodes": 2320}
+{"N": 45045, "verdict": "PASS", "seconds": 0.094, "best_T": [3, 5, 7, 11, 13], "best_margin": "-136/1365", "exhaustive_completed": true, "exhaustive_nodes": 10370}
+{"N": 45675, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 29], "best_margin": "1/29", "exhaustive_completed": true, "exhaustive_nodes": 3216}
+{"N": 45885, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.075, "best_T": [3, 5, 7, 19, 23], "best_margin": "86/483", "exhaustive_completed": true, "exhaustive_nodes": 3698}
+{"N": 46035, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 11, 31], "best_margin": "211/1705", "exhaustive_completed": true, "exhaustive_nodes": 2327}
+{"N": 46305, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.01, "best_T": [3, 5, 7], "best_margin": "928/15435", "exhaustive_completed": true, "exhaustive_nodes": 1497}
+{"N": 47025, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.066, "best_T": [3, 5, 11, 19], "best_margin": "83/1045", "exhaustive_completed": true, "exhaustive_nodes": 3266}
+{"N": 47355, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 7, 11, 41], "best_margin": "7268/47355", "exhaustive_completed": true, "exhaustive_nodes": 3624}
+{"N": 47775, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 13], "best_margin": "709/6825", "exhaustive_completed": true, "exhaustive_nodes": 3274}
+{"N": 48195, "verdict": "PASS", "seconds": 0.07, "best_T": [3, 5, 7, 17], "best_margin": "-1/255", "exhaustive_completed": true, "exhaustive_nodes": 3875}
+{"N": 48825, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 7, 31], "best_margin": "1847/48825", "exhaustive_completed": true, "exhaustive_nodes": 3216}
+{"N": 49665, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 11, 43], "best_margin": "7702/49665", "exhaustive_completed": true, "exhaustive_nodes": 3624}
+{"N": 49725, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 13, 17], "best_margin": "1493/16575", "exhaustive_completed": true, "exhaustive_nodes": 3265}
+{"N": 49875, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.065, "best_T": [3, 5, 7, 19], "best_margin": "1597/9975", "exhaustive_completed": true, "exhaustive_nodes": 2325}
+{"N": 50085, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7, 53], "best_margin": "409/5565", "exhaustive_completed": true, "exhaustive_nodes": 2245}
+{"N": 50505, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 7, 13, 37], "best_margin": "1214/7215", "exhaustive_completed": true, "exhaustive_nodes": 3670}
+{"N": 50715, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 23], "best_margin": "179/3381", "exhaustive_completed": true, "exhaustive_nodes": 3216}
+{"N": 51765, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.068, "best_T": [3, 5, 7, 17, 29], "best_margin": "1346/7395", "exhaustive_completed": true, "exhaustive_nodes": 3698}
+{"N": 51975, "verdict": "PASS", "seconds": 0.023, "best_T": [3, 5, 7, 11], "best_margin": "-373/3465", "exhaustive_completed": true, "exhaustive_nodes": 6412}
+{"N": 53235, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.068, "best_T": [3, 5, 7, 13], "best_margin": "41/1365", "exhaustive_completed": true, "exhaustive_nodes": 3128}
+{"N": 53865, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.018, "best_T": [3, 5, 7, 19], "best_margin": "97/17955", "exhaustive_completed": true, "exhaustive_nodes": 3875}
+{"N": 54285, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 11, 47], "best_margin": "1714/10857", "exhaustive_completed": true, "exhaustive_nodes": 3614}
+{"N": 55125, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.065, "best_T": [3, 5, 7], "best_margin": "668/18375", "exhaustive_completed": true, "exhaustive_nodes": 2121}
+{"N": 55575, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 13, 19], "best_margin": "1099/11115", "exhaustive_completed": true, "exhaustive_nodes": 3257}
+{"N": 55755, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7, 59], "best_margin": "473/6195", "exhaustive_completed": true, "exhaustive_nodes": 2245}
+{"N": 55965, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.015, "best_T": [3, 5, 7, 13, 41], "best_margin": "9622/55965", "exhaustive_completed": true, "exhaustive_nodes": 3624}
+{"N": 56595, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.069, "best_T": [3, 5, 7, 11], "best_margin": "8329/56595", "exhaustive_completed": true, "exhaustive_nodes": 2267}
+{"N": 56925, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.02, "best_T": [3, 5, 11, 23], "best_margin": "1757/18975", "exhaustive_completed": true, "exhaustive_nodes": 3251}
+{"N": 57645, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.011, "best_T": [3, 5, 7, 61], "best_margin": "1483/19215", "exhaustive_completed": true, "exhaustive_nodes": 2245}
+{"N": 57915, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.082, "best_T": [3, 5, 11, 13], "best_margin": "5/117", "exhaustive_completed": true, "exhaustive_nodes": 3903}
+{"N": 58275, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 7, 37], "best_margin": "2663/58275", "exhaustive_completed": true, "exhaustive_nodes": 3176}
+{"N": 58695, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.071, "best_T": [3, 5, 7, 13, 43], "best_margin": "10184/58695", "exhaustive_completed": true, "exhaustive_nodes": 3624}
+{"N": 58905, "verdict": "PASS", "seconds": 0.107, "best_T": [3, 5, 7, 11, 17], "best_margin": "-1396/19635", "exhaustive_completed": true, "exhaustive_nodes": 10292}
+{"N": 59535, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7], "best_margin": "8/189", "exhaustive_completed": true, "exhaustive_nodes": 1957}
+{"N": 61215, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.019, "best_T": [3, 5, 7, 11, 53], "best_margin": "9872/61215", "exhaustive_completed": true, "exhaustive_nodes": 3614}
+{"N": 61425, "verdict": "PASS", "seconds": 0.078, "best_T": [3, 5, 7, 13], "best_margin": "-211/2457", "exhaustive_completed": true, "exhaustive_nodes": 6404}
+{"N": 62475, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 17], "best_margin": "8051/62475", "exhaustive_completed": true, "exhaustive_nodes": 3266}
+{"N": 63315, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.07, "best_T": [3, 5, 7, 67], "best_margin": "5/63", "exhaustive_completed": true, "exhaustive_nodes": 2211}
+{"N": 63525, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 11], "best_margin": "6719/63525", "exhaustive_completed": true, "exhaustive_nodes": 3191}
+{"N": 63945, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 29], "best_margin": "1411/21315", "exhaustive_completed": true, "exhaustive_nodes": 3216}
+{"N": 64155, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.015, "best_T": [3, 5, 7, 13, 47], "best_margin": "11308/64155", "exhaustive_completed": true, "exhaustive_nodes": 3624}
+{"N": 64575, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.071, "best_T": [3, 5, 7, 41], "best_margin": "1069/21525", "exhaustive_completed": true, "exhaustive_nodes": 3176}
+{"N": 65205, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.021, "best_T": [3, 5, 7, 23], "best_margin": "139/7245", "exhaustive_completed": true, "exhaustive_nodes": 3847}
+{"N": 65835, "verdict": "PASS", "seconds": 0.085, "best_T": [3, 5, 7, 11, 19], "best_margin": "-1346/21945", "exhaustive_completed": true, "exhaustive_nodes": 10287}
+{"N": 66825, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 11], "best_margin": "1844/22275", "exhaustive_completed": true, "exhaustive_nodes": 1968}
+{"N": 66885, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.01, "best_T": [3, 5, 7, 13], "best_margin": "1583/9555", "exhaustive_completed": true, "exhaustive_nodes": 2273}
+{"N": 67095, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.065, "best_T": [3, 5, 7, 71], "best_margin": "601/7455", "exhaustive_completed": true, "exhaustive_nodes": 2211}
+{"N": 67275, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 13, 23], "best_margin": "193/1725", "exhaustive_completed": true, "exhaustive_nodes": 3258}
+{"N": 67725, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 43], "best_margin": "497/9675", "exhaustive_completed": true, "exhaustive_nodes": 3176}
+{"N": 68145, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 11, 59], "best_margin": "11174/68145", "exhaustive_completed": true, "exhaustive_nodes": 3563}
+{"N": 68355, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.067, "best_T": [3, 5, 7, 31], "best_margin": "1583/22785", "exhaustive_completed": true, "exhaustive_nodes": 3211}
+{"N": 68985, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7, 73], "best_margin": "1867/22995", "exhaustive_completed": true, "exhaustive_nodes": 2211}
+{"N": 69615, "verdict": "PASS", "seconds": 0.086, "best_T": [3, 5, 7, 13, 17], "best_margin": "-1154/23205", "exhaustive_completed": true, "exhaustive_nodes": 10277}
+{"N": 69825, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 7, 19], "best_margin": "101/735", "exhaustive_completed": true, "exhaustive_nodes": 3266}
+{"N": 70455, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 7, 11, 61], "best_margin": "11608/70455", "exhaustive_completed": true, "exhaustive_nodes": 3563}
+{"N": 70785, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 11, 13], "best_margin": "2287/23595", "exhaustive_completed": true, "exhaustive_nodes": 3180}
+{"N": 70875, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.061, "best_T": [3, 5, 7], "best_margin": "64/23625", "exhaustive_completed": true, "exhaustive_nodes": 2542}
+{"N": 71775, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 11, 29], "best_margin": "101/957", "exhaustive_completed": true, "exhaustive_nodes": 3230}
+{"N": 72345, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 13, 53], "best_margin": "12994/72345", "exhaustive_completed": true, "exhaustive_nodes": 3624}
+{"N": 72765, "verdict": "PASS", "seconds": 0.076, "best_T": [3, 5, 7, 11], "best_margin": "-593/8085", "exhaustive_completed": true, "exhaustive_nodes": 6346}
+{"N": 74025, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 47], "best_margin": "447/8225", "exhaustive_completed": true, "exhaustive_nodes": 3136}
+{"N": 74655, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7, 79], "best_margin": "2059/24885", "exhaustive_completed": true, "exhaustive_nodes": 2211}
+{"N": 75075, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.088, "best_T": [3, 5, 7, 11, 13], "best_margin": "584/75075", "exhaustive_completed": true, "exhaustive_nodes": 10397}
+{"N": 75735, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.015, "best_T": [3, 5, 11, 17], "best_margin": "193/2805", "exhaustive_completed": true, "exhaustive_nodes": 3882}
+{"N": 76545, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.006, "best_T": [3, 5, 7], "best_margin": "1952/25515", "exhaustive_completed": true, "exhaustive_nodes": 1321}
+{"N": 76725, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.067, "best_T": [3, 5, 11, 31], "best_margin": "927/8525", "exhaustive_completed": true, "exhaustive_nodes": 3230}
+{"N": 77175, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7], "best_margin": "688/15435", "exhaustive_completed": true, "exhaustive_nodes": 2067}
+{"N": 77385, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 11, 67], "best_margin": "2582/15477", "exhaustive_completed": true, "exhaustive_nodes": 3563}
+{"N": 77805, "verdict": "PASS", "seconds": 0.093, "best_T": [3, 5, 7, 13, 19], "best_margin": "-16/399", "exhaustive_completed": true, "exhaustive_nodes": 10277}
+{"N": 78435, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.018, "best_T": [3, 5, 7, 83], "best_margin": "243/2905", "exhaustive_completed": true, "exhaustive_nodes": 2211}
+{"N": 78975, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.063, "best_T": [3, 5, 13], "best_margin": "8074/78975", "exhaustive_completed": true, "exhaustive_nodes": 1968}
+{"N": 79695, "verdict": "PASS", "seconds": 0.106, "best_T": [3, 5, 7, 11, 23], "best_margin": "-178/3795", "exhaustive_completed": true, "exhaustive_nodes": 10203}
+{"N": 80325, "verdict": "PASS", "seconds": 0.024, "best_T": [3, 5, 7, 17], "best_margin": "-103/1785", "exhaustive_completed": true, "exhaustive_nodes": 6374}
+{"N": 80535, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.073, "best_T": [3, 5, 7, 13, 59], "best_margin": "2936/16107", "exhaustive_completed": true, "exhaustive_nodes": 3614}
+{"N": 81081, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.024, "best_T": [3, 7, 11, 13], "best_margin": "35/297", "exhaustive_completed": true, "exhaustive_nodes": 3909}
+{"N": 81585, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.072, "best_T": [3, 5, 7, 37], "best_margin": "2099/27195", "exhaustive_completed": true, "exhaustive_nodes": 3186}
+{"N": 81675, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 11], "best_margin": "1468/16335", "exhaustive_completed": true, "exhaustive_nodes": 2121}
+{"N": 82005, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.023, "best_T": [3, 5, 7, 11, 71], "best_margin": "13778/82005", "exhaustive_completed": true, "exhaustive_nodes": 3563}
+{"N": 82215, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.078, "best_T": [3, 5, 7, 29], "best_margin": "299/9135", "exhaustive_completed": true, "exhaustive_nodes": 3828}
+{"N": 83265, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.081, "best_T": [3, 5, 7, 13, 61], "best_margin": "15242/83265", "exhaustive_completed": true, "exhaustive_nodes": 3614}
+{"N": 83475, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.02, "best_T": [3, 5, 7, 53], "best_margin": "1613/27825", "exhaustive_completed": true, "exhaustive_nodes": 3136}
+{"N": 83655, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.017, "best_T": [3, 5, 11, 13], "best_margin": "217/2145", "exhaustive_completed": true, "exhaustive_nodes": 3131}
+{"N": 84105, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.063, "best_T": [3, 5, 7, 89], "best_margin": "793/9345", "exhaustive_completed": true, "exhaustive_nodes": 2211}
+{"N": 84315, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.017, "best_T": [3, 5, 7, 11, 73], "best_margin": "1292/7665", "exhaustive_completed": true, "exhaustive_nodes": 3563}
+{"N": 84525, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 23], "best_margin": "12683/84525", "exhaustive_completed": true, "exhaustive_nodes": 3246}
+{"N": 84645, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.068, "best_T": [3, 5, 11, 19], "best_margin": "731/9405", "exhaustive_completed": true, "exhaustive_nodes": 3877}
+{"N": 85995, "verdict": "PASS", "seconds": 0.023, "best_T": [3, 5, 7, 13], "best_margin": "-71/1365", "exhaustive_completed": true, "exhaustive_nodes": 6345}
+{"N": 86625, "verdict": "PASS", "seconds": 0.077, "best_T": [3, 5, 7, 11], "best_margin": "-1871/28875", "exhaustive_completed": true, "exhaustive_nodes": 6268}
+{"N": 87885, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.016, "best_T": [3, 5, 7, 31], "best_margin": "151/4185", "exhaustive_completed": true, "exhaustive_nodes": 3828}
+{"N": 88725, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.016, "best_T": [3, 5, 7, 13], "best_margin": "11449/88725", "exhaustive_completed": true, "exhaustive_nodes": 3188}
+{"N": 88935, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.017, "best_T": [3, 5, 7, 11], "best_margin": "1739/12705", "exhaustive_completed": true, "exhaustive_nodes": 3203}
+{"N": 89505, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.063, "best_T": [3, 5, 13, 17], "best_margin": "293/3315", "exhaustive_completed": true, "exhaustive_nodes": 3882}
+{"N": 89775, "verdict": "PASS", "seconds": 0.023, "best_T": [3, 5, 7, 19], "best_margin": "-863/17955", "exhaustive_completed": true, "exhaustive_nodes": 6374}
+{"N": 90405, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.064, "best_T": [3, 5, 7, 41], "best_margin": "349/4305", "exhaustive_completed": true, "exhaustive_nodes": 3186}
+{"N": 91035, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.013, "best_T": [3, 5, 7, 17], "best_margin": "1849/30345", "exhaustive_completed": true, "exhaustive_nodes": 3079}
+{"N": 91245, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 11, 79], "best_margin": "15514/91245", "exhaustive_completed": true, "exhaustive_nodes": 3507}
+{"N": 91575, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 11, 37], "best_margin": "1183/10175", "exhaustive_completed": true, "exhaustive_nodes": 3200}
+{"N": 91665, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.062, "best_T": [3, 5, 7, 97], "best_margin": "527/6111", "exhaustive_completed": true, "exhaustive_nodes": 2211}
+{"N": 92565, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 11, 17], "best_margin": "3767/30855", "exhaustive_completed": true, "exhaustive_nodes": 3179}
+{"N": 92925, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 59], "best_margin": "377/6195", "exhaustive_completed": true, "exhaustive_nodes": 3129}
+{"N": 93555, "verdict": "PASS", "seconds": 0.077, "best_T": [3, 5, 7, 11], "best_margin": "-607/10395", "exhaustive_completed": true, "exhaustive_nodes": 5727}
+{"N": 94185, "verdict": "PASS", "seconds": 0.034, "best_T": [3, 5, 7, 13, 23], "best_margin": "-116/4485", "exhaustive_completed": true, "exhaustive_nodes": 10206}
+{"N": 94815, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.063, "best_T": [3, 5, 7, 43], "best_margin": "523/6321", "exhaustive_completed": true, "exhaustive_nodes": 3186}
+{"N": 95445, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7, 101], "best_margin": "307/3535", "exhaustive_completed": true, "exhaustive_nodes": 2211}
+{"N": 95865, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.014, "best_T": [3, 5, 7, 11, 83], "best_margin": "16382/95865", "exhaustive_completed": true, "exhaustive_nodes": 3507}
+{"N": 96075, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.012, "best_T": [3, 5, 7, 61], "best_margin": "5927/96075", "exhaustive_completed": true, "exhaustive_nodes": 3129}
+{"N": 96525, "verdict": "PASS", "seconds": 0.082, "best_T": [3, 5, 11, 13], "best_margin": "-61/6435", "exhaustive_completed": true, "exhaustive_nodes": 6406}
+{"N": 97335, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.009, "best_T": [3, 5, 7, 103], "best_margin": "2827/32445", "exhaustive_completed": true, "exhaustive_nodes": 2211}
+{"N": 98175, "verdict": "EXCLUDED_BY_CRT", "seconds": 0.089, "best_T": [3, 5, 7, 11, 17], "best_margin": "44/1275", "exhaustive_completed": true, "exhaustive_nodes": 10331}
+{"N": 99225, "verdict": "PASS", "seconds": 0.014, "best_T": [3, 5, 7], "best_margin": "-709/33075", "exhaustive_completed": true, "exhaustive_nodes": 3521}
